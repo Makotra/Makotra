@@ -24,6 +24,7 @@ Python-разработчик и аналитик данных
 ---
 
 ### 📊 Аналитика и тестирование гипотез
+![Unit Economics](https://img.shields.io/badge/Unit_Economics-4CAF50?style=for-the-badge&logo=graph&logoColor=white)
 ![Product Hypotheses](https://img.shields.io/badge/Product_Hypotheses-2196F3?style=for-the-badge&logo=idea&logoColor=white)
 ![A/B Testing](https://img.shields.io/badge/A/B_Testing-E91E63?style=for-the-badge&logo=splitbee&logoColor=white)
 
